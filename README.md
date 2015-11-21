@@ -12,4 +12,4 @@ Then run with `gulp test` which will run tests in ./tests/**/*
 
 Run with `gulp tdd` and it will run and *watch* for tests in ./tests/**/*
 
-* TDD ALL THE THINGS *:watch
+* TDD ALL THE THINGS *
